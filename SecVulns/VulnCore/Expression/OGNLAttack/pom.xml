@@ -32,7 +32,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-core</artifactId>
-      <version>5.3.18</version>
+      <version>6.2.11</version>
     </dependency>
     <dependency>
       <groupId>commons-io</groupId>
@@ -43,7 +43,7 @@
     <dependency>
       <groupId>org.apache.commons</groupId>
       <artifactId>commons-lang3</artifactId>
-      <version>3.12.0</version>
+      <version>3.18.0</version>
       <scope>compile</scope>
     </dependency>
 
